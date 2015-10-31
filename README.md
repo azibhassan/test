@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # WP-PostRatings
 Contributors: GamerZ  
 Donate link: http://lesterchan.net/site/donation/  
@@ -637,3 +638,7 @@ add_filter( 'wp_postratings_cookie_expiration', 'custom_rating_cookie_expiration
 * You can use: ``<?php query_posts( array( 'meta_key' => 'ratings_users', 'orderby' => 'meta_value_num', 'order' => 'DESC' ) ); ?>``
 * Or pass in the variables to the URL: `http://yoursite.com/?r_sortby=most_rated&amp;r_orderby=desc`
 * You can replace desc with asc if you want the least rated posts.
+=======
+# test
+basic git workflow
+>>>>>>> Initial commit
